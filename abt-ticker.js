@@ -62,7 +62,7 @@ function recent_post_style(){
 function recent_post_content(){
     var s = "<div id='recent_post' title='Latest News'>";
     if(info_text){
-    s += "<div style='float:left; text-align:right; margin-left:10px;'>";
+    s += "<div class='recenthead'>";
     s += "Latest News:";
     s += "</div>";
     }
