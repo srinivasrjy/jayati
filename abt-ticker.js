@@ -53,7 +53,7 @@ function recent_post_style(){
     s += "margin:0px;";
     s += "padding: 0px;";
     s += "width:auto;";
-    s += "background:#fff;";
+    s += "background:#f0f0f0;";
     s += "border:1px solid #ddd";
     s += "}";
     s += "</style>";
