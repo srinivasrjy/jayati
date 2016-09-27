@@ -51,7 +51,7 @@ function recent_post_style(){
     s += "#recent_post{";
   s += "position:absolute;";
     s += "margin:0px;";
-    s += "padding: 5px 2px 2px;";
+    s += "padding: 0px;";
     s += "width:auto;";
     s += "background:#fff;";
     s += "border:1px solid #ddd";
