@@ -63,7 +63,7 @@ function recent_post_content(){
     var s = "<div id='recent_post' title='Latest News'>";
     if(info_text){
     s += "<div class='recenthead'>";
-    s += "Latest News:";
+    s += "Latest News";
     s += "</div>";
     }
     s += "  <marquee style='float:left; margin-left:10px; width:82%' scrollAmount='"+scrolling_speed+"'>";
